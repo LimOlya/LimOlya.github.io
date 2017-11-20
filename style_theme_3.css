@@ -1,0 +1,29 @@
+
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.hr_1 {
+    margin-bottom: 50px;
+    width: 400px;
+    border: 2px solid aqua;
+	color: white;
+}
+
+.hr_2 {
+    width: 500px;
+    border: 2px solid aqua;
+	color: white;
+}
+
+.theme_1_1 {
+    background: rgba(172, 210, 255, 0.25);
+    width: 800px;
+    padding: 10px;
+    margin: 30px auto;
+	color: white;
+}
